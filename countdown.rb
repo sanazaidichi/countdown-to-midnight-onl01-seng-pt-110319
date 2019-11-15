@@ -1,6 +1,7 @@
 def loop 
-  new_years_countdown = 1
-  while new_years_countdown <=
+  new_years_countdown = 0
+  while new_years_countdown <= 10 
+  
 
 def countdown
 end
