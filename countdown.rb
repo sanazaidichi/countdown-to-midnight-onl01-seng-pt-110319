@@ -6,5 +6,8 @@ def loop
 end 
   
 def countdown
-  happy_new_years = 10
+  "HAPPY NEW YEAR!" = 10
+  while "HAPPY NEW YEAR!" > 0 
+  puts "HAPPY NEW YEAR!"
+  "HAPPY NEW YEAR!" -+ 10 
 end
